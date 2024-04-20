@@ -1,0 +1,22 @@
+body{
+    font-family: 'Dosis', sans-serif;
+    background-color: #0A0D29;
+    color: whitesmoke;
+    text-align: center;
+    border: 30px solid #08A7EF;
+    border-top: 0px;
+}
+form{
+    font-size: 1.5em;
+    margin-bottom: 5px;
+
+}
+#sub{
+    background-color: #C38C0A;
+    height: 60px;
+    width: 160px;
+    margin-top: 20px;
+    font-size: 1.2em;
+    border-radius: 20px;
+
+}
